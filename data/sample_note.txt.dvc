@@ -1,0 +1,5 @@
+outs:
+- md5: d70e5ffd1cd9d731f2f414d2e3d37cd5
+  size: 320
+  hash: md5
+  path: sample_note.txt
