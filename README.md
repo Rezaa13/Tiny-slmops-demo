@@ -30,3 +30,15 @@ A small local AI-native system that summarizes text using a local model.
 
 5. Open:
    http://127.0.0.1:8000/docs
+
+
+**   Screenshots: 
+
+1. 
+<img width="1920" height="2128" alt="1" src="https://github.com/user-attachments/assets/e04d0ecb-4472-48d9-a6dd-ede8025ba823" />
+
+2. 
+<img width="1920" height="3162" alt="2" src="https://github.com/user-attachments/assets/c933b545-572f-4403-9feb-4691ef16eb22" />
+
+3. 
+<img width="1920" height="912" alt="3" src="https://github.com/user-attachments/assets/77389fb2-da5c-4635-96f5-f26964e40f0f" />
